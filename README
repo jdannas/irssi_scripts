@@ -1,1 +1,4 @@
 flood.pl
+============
+This script catches the [flood] signal from IRSSI and bans the ip of the offender.  
+Channels to watch for floods in must be added to the flood channel list.
